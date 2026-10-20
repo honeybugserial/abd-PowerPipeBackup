@@ -2,6 +2,12 @@
 
 Backup android devices quickly and easily by using `adb-exec` and tar streams.
 
+<p align="center">
+  <a href="screenshot-01.png"><img src="screenshot-01.png" width="380" alt="Screenshot 1"></a>
+  &nbsp;
+  <a href="screenshot-02.png"><img src="screenshot-02.png" width="380" alt="Screenshot 2"></a>
+</p>
+
 ## Settings/Operations
 
 - Tar & gzip compression (`.tar.gz`). Default: tar (Better for files like photos)
